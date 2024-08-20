@@ -1,0 +1,5 @@
+ex00: ft_putchar - Print a Character
+ex01: ft_print_alphabet - Print the Alphabet
+ex02: ft_print_reverse_alphabet - Print the Alphabet in Reverse
+ex03: ft_print_numbers - Print the Numbers 0 to 9
+ex04: ft_is_negative - Print the Numbers 9 to 0 in Reverse
